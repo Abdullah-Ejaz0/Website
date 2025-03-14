@@ -143,12 +143,6 @@ body {
    width: 200px;
 }
 
-iframe {
-   width: 100%;
-   height: 315px;
-   margin-top: 20px;
-}
-
 .movie-trailer{
     margin-bottom: 10%;
     color: lightcyan;
